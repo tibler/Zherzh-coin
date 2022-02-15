@@ -1,0 +1,2 @@
+# Zherzh-coin
+gerg coin
